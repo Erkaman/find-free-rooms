@@ -1,0 +1,21 @@
+
+https://se.timeedit.net/web/chalmers/db1/public/ri.pdf?h=t&
+sid=3&  // pages, probably.
+p=20150927.x%2C20160117.x& // probably the date.
+objects=204064.186&
+ox=0&
+types=0&
+fe=0&
+ps=A4& // page format. page style.
+sp=f& // if stående f, if liggande t
+pl=0& // 0 if no linjer av, if 1 linjerat.
+fs=9& // font size.
+cl=x89& // color, if x89 svartvitt, if x90 inverterat.
+shf=0& // sidfot och sidhuvud.
+wpp=1 // weeks per page.
+
+
+useful links:
+https://se.timeedit.net/web/chalmers/db1/public/schema/objects.html
+
+http://help.timeedit.se/wiki/index.php/ScheduleCreator
